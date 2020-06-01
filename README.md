@@ -13,9 +13,6 @@ Test1
 5. Images and corresponding probability that predicted Wrong   
 <img width="546" alt="15" src="https://user-images.githubusercontent.com/66001867/83455699-574f7c80-a499-11ea-8795-23d2d5c5a78d.PNG">   
 
-![Test1_success](https://user-images.githubusercontent.com/66001867/83005022-4a6efb00-a04b-11ea-9a63-6d68ca88b91d.png)   
-![test1_failure](https://user-images.githubusercontent.com/66001867/83007191-485a6b80-a04e-11ea-8a22-77fdf41141eb.PNG)   
-
 Test 2   
 1. model   
 <img width="283" alt="test2model" src="https://user-images.githubusercontent.com/66001867/83452369-8bc03a00-a493-11ea-947e-39dba0ff3f38.PNG">   
@@ -40,9 +37,6 @@ Test3
 3. Test accuracy   
 <img width="333" alt="test3testdata" src="https://user-images.githubusercontent.com/66001867/83453735-fd00ec80-a495-11ea-8b09-a7e2f70d5984.PNG">   
 4. Images and corresponding probability that predicted Right     
-<img width="255" alt="34" src="https://user-images.githubusercontent.com/66001867/83455712-5c143080-a499-11ea-83b8-75865cd7e579.PNG">   
+<img width="421" alt="34" src="https://user-images.githubusercontent.com/66001867/83455712-5c143080-a499-11ea-83b8-75865cd7e579.PNG">   
 5. Images and corresponding probability that predicted Wrong    
-<img width="351" alt="35" src="https://user-images.githubusercontent.com/66001867/83455732-62a2a800-a499-11ea-890c-1b1e5dd43457.PNG">     
-
-![Test3_success](https://user-images.githubusercontent.com/66001867/83007564-d6ceed00-a04e-11ea-8be9-41e49b064e30.png)
-![Test3_failure](https://user-images.githubusercontent.com/66001867/83007608-e2baaf00-a04e-11ea-9dcb-f257fbeda7f9.png)
+<img width="546" alt="35" src="https://user-images.githubusercontent.com/66001867/83455732-62a2a800-a499-11ea-890c-1b1e5dd43457.PNG">     
