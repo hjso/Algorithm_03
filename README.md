@@ -1,5 +1,6 @@
 # Algorithm_03
-Test1   
+Test1  
+   
 1) model   
 <img width="276" alt="test1modelpic" src="https://user-images.githubusercontent.com/66001867/83451597-35063080-a492-11ea-87da-344eba4dcea9.PNG">  
 <img width="379" alt="test1modelLayer" src="https://user-images.githubusercontent.com/66001867/83451628-42231f80-a492-11ea-8caf-bef3637d8ee0.PNG">   
@@ -8,9 +9,9 @@ Test1
 <img width="428" alt="test1_training" src="https://user-images.githubusercontent.com/66001867/83451654-4bac8780-a492-11ea-9388-33215ddc3b6e.PNG">   
 3) Test accuracy
 <img width="353" alt="test1_testdata" src="https://user-images.githubusercontent.com/66001867/83451890-a940d400-a492-11ea-91ae-f9f3f3402382.PNG">  
-4) Images and corresponding probability that predicted Right   
+4) Images and corresponding probability that predicted Right     
 ![Test1_success](https://user-images.githubusercontent.com/66001867/83005022-4a6efb00-a04b-11ea-9a63-6d68ca88b91d.png)
-5) Images and corresponding probability that predicted Wrong   
+5) Images and corresponding probability that predicted Wrong    
 ![test1_failure](https://user-images.githubusercontent.com/66001867/83007191-485a6b80-a04e-11ea-8a22-77fdf41141eb.PNG)  
 
 
