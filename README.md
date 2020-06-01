@@ -9,9 +9,9 @@ Test1
 3. Test accuracy   
 <img width="353" alt="test1_testdata" src="https://user-images.githubusercontent.com/66001867/83451890-a940d400-a492-11ea-91ae-f9f3f3402382.PNG">      
 4. Images and corresponding probability that predicted Right   
-<img width="266" alt="14" src="https://user-images.githubusercontent.com/66001867/83455681-50c10500-a499-11ea-8553-099a7cef30e9.PNG">   
+<img width="421" alt="14" src="https://user-images.githubusercontent.com/66001867/83455681-50c10500-a499-11ea-8553-099a7cef30e9.PNG">   
 5. Images and corresponding probability that predicted Wrong   
-<img width="347" alt="15" src="https://user-images.githubusercontent.com/66001867/83455699-574f7c80-a499-11ea-8795-23d2d5c5a78d.PNG">   
+<img width="546" alt="15" src="https://user-images.githubusercontent.com/66001867/83455699-574f7c80-a499-11ea-8795-23d2d5c5a78d.PNG">   
 
 ![Test1_success](https://user-images.githubusercontent.com/66001867/83005022-4a6efb00-a04b-11ea-9a63-6d68ca88b91d.png)   
 ![test1_failure](https://user-images.githubusercontent.com/66001867/83007191-485a6b80-a04e-11ea-8a22-77fdf41141eb.PNG)   
