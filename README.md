@@ -1,6 +1,6 @@
 # Algorithm_03
-Test1  
-1. model 
+Test1   
+1. model   
 <img width="276" alt="test1modelpic" src="https://user-images.githubusercontent.com/66001867/83451597-35063080-a492-11ea-87da-344eba4dcea9.PNG">  
 <img width="379" alt="test1modelLayer" src="https://user-images.githubusercontent.com/66001867/83451628-42231f80-a492-11ea-8caf-bef3637d8ee0.PNG">   
 <img width="117" alt="test1modelselect" src="https://user-images.githubusercontent.com/66001867/83453928-51a46780-a496-11ea-8ecd-bf4641399c17.PNG">  
@@ -15,7 +15,7 @@ Test1
 
 ![test1_failure](https://user-images.githubusercontent.com/66001867/83007191-485a6b80-a04e-11ea-8a22-77fdf41141eb.PNG)   
 
-Test 2  
+Test 2   
 1. model   
 <img width="283" alt="test2model" src="https://user-images.githubusercontent.com/66001867/83452369-8bc03a00-a493-11ea-947e-39dba0ff3f38.PNG">   
 <img width="373" alt="test2modelLayer" src="https://user-images.githubusercontent.com/66001867/83452385-911d8480-a493-11ea-8c75-7f433660018f.PNG">    
@@ -29,11 +29,18 @@ Test 2
 5. Images and corresponding probability that predicted Wrong   
 <img width="546" alt="Test2_failure" src="https://user-images.githubusercontent.com/66001867/83006259-e816fa00-a04c-11ea-9857-de6010ba0355.PNG">   
 
-Test3
+Test3   
+1. model   
 <img width="282" alt="test3model" src="https://user-images.githubusercontent.com/66001867/83453210-0b9ad400-a495-11ea-8088-91f94bd884b5.PNG">   
 <img width="375" alt="test3modelLayer" src="https://user-images.githubusercontent.com/66001867/83453224-1190b500-a495-11ea-9d9f-8a6d1533be15.PNG">   
 <img width="149" alt="test3selectmodel" src="https://user-images.githubusercontent.com/66001867/83453266-240aee80-a495-11ea-8b95-ddeb050f7d9d.PNG">   
+2. Training with Training loss   
 <img width="427" alt="test3training" src="https://user-images.githubusercontent.com/66001867/83453714-f5414800-a495-11ea-8d6c-7fae46fc187c.PNG">   
+3. Test accuracy   
 <img width="333" alt="test3testdata" src="https://user-images.githubusercontent.com/66001867/83453735-fd00ec80-a495-11ea-8b09-a7e2f70d5984.PNG">   
+4. Images and corresponding probability that predicted Right  
+
 ![Test3_success](https://user-images.githubusercontent.com/66001867/83007564-d6ceed00-a04e-11ea-8be9-41e49b064e30.png)
+5. Images and corresponding probability that predicted Wrong   
+
 ![Test3_failure](https://user-images.githubusercontent.com/66001867/83007608-e2baaf00-a04e-11ea-9dcb-f257fbeda7f9.png)
