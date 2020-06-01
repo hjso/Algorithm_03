@@ -1,6 +1,7 @@
 # Algorithm_03
 Test1   
-<img width="276" alt="test1modelpic" src="https://user-images.githubusercontent.com/66001867/83451597-35063080-a492-11ea-87da-344eba4dcea9.PNG">   
+<img width="276" alt="test1modelpic" src="https://user-images.githubusercontent.com/66001867/83451597-35063080-a492-11ea-87da-344eba4dcea9.PNG">  
+<img width="117" alt="test1modelselect" src="https://user-images.githubusercontent.com/66001867/83453928-51a46780-a496-11ea-8ecd-bf4641399c17.PNG">   
 <img width="379" alt="test1modelLayer" src="https://user-images.githubusercontent.com/66001867/83451628-42231f80-a492-11ea-8caf-bef3637d8ee0.PNG">   
 <img width="428" alt="test1_training" src="https://user-images.githubusercontent.com/66001867/83451654-4bac8780-a492-11ea-9388-33215ddc3b6e.PNG">   
 <img width="353" alt="test1_testdata" src="https://user-images.githubusercontent.com/66001867/83451890-a940d400-a492-11ea-91ae-f9f3f3402382.PNG">   
