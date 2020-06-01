@@ -10,8 +10,7 @@ Test1
 
 Test 2   
 <img width="283" alt="test2model" src="https://user-images.githubusercontent.com/66001867/83452369-8bc03a00-a493-11ea-947e-39dba0ff3f38.PNG">   
-<img width="373" alt="test2modelLayer" src="https://user-images.githubusercontent.com/66001867/83452385-911d8480-a493-11ea-8c75-7f433660018f.PNG">   
-<img width="193" alt="test2selectmodel" src="https://user-images.githubusercontent.com/66001867/83452408-9b3f8300-a493-11ea-931d-e030736e3675.PNG">   
+<img width="373" alt="test2modelLayer" src="https://user-images.githubusercontent.com/66001867/83452385-911d8480-a493-11ea-8c75-7f433660018f.PNG">    
 <img width="193" alt="test2selectmodel" src="https://user-images.githubusercontent.com/66001867/83452813-61bb4780-a494-11ea-99cc-edc01feab447.PNG">   
 <img width="431" alt="test2training" src="https://user-images.githubusercontent.com/66001867/83452770-4f410e00-a494-11ea-8f55-0d5356c4b0be.PNG">     
 <img width="340" alt="test2testdata" src="https://user-images.githubusercontent.com/66001867/83452860-77307180-a494-11ea-8e27-862cce03b4af.PNG">   
