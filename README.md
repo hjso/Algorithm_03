@@ -9,8 +9,10 @@ Test1
 3. Test accuracy   
 <img width="353" alt="test1_testdata" src="https://user-images.githubusercontent.com/66001867/83451890-a940d400-a492-11ea-91ae-f9f3f3402382.PNG">      
 4. Images and corresponding probability that predicted Right
+
 ![Test1_success](https://user-images.githubusercontent.com/66001867/83005022-4a6efb00-a04b-11ea-9a63-6d68ca88b91d.png)    
 5. Images and corresponding probability that predicted Wrong
+
 ![test1_failure](https://user-images.githubusercontent.com/66001867/83007191-485a6b80-a04e-11ea-8a22-77fdf41141eb.PNG)   
 
 Test 2  
